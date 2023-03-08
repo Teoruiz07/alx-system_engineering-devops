@@ -20,4 +20,6 @@
 
 10-back --> Changes the working directory to the previous one.
 
+11-lists --> Lists all files in three.
+
 
