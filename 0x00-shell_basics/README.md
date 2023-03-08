@@ -6,4 +6,6 @@
 
 3-listfiles --> List current directory contents in long format.
 
+4-listmorefiles --> List current directory contents including Hidden files.
+
 
