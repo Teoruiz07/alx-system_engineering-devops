@@ -11,3 +11,7 @@
 5-listfilesdigitonly --> List current directory contents with user and group ID displayed numerically.
 
 6-firstdirectory --> It creates a new directory in the /tmp/ directory.
+
+7-movethatfile --> Moves betty file from /tmp/ to /tmp/my_first_directory.
+
+
