@@ -16,4 +16,6 @@
 
 8-firstdelete --> Deletes the Betty file from /tmp/my_first_directory.
 
+9-firstdirdeletion --> Deletes my_first_directory from /tmp/.
+
 
