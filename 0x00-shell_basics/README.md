@@ -8,4 +8,6 @@
 
 4-listmorefiles --> List current directory contents including Hidden files.
 
+5-listfilesdigitonly --> List current directory contents with user and group ID displayed numerically.
+
 
