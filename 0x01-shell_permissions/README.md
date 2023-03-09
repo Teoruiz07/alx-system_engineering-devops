@@ -4,4 +4,6 @@
 
 2-groups --> prints the groups the current user is part of.
 
+3-new_owner --> changes owner of hello file to the user betty.
+
 
