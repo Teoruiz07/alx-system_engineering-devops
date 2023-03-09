@@ -24,4 +24,6 @@
 
 12-file_type --> Prints the file type of iamafile in /tmp/.
 
+13-symbolic_link --> Creates symbolic link in the current working directory.
+
 
