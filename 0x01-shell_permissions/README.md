@@ -24,4 +24,6 @@
 
 12-directory_permissions --> creates a directory called my_dir with permission 751 in th working directory.
 
+13-change_group --> Changes group owner to school for the file hello.
+
 
