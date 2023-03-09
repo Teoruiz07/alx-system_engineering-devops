@@ -14,4 +14,6 @@
 
 7-everybody --> adds execute permission to the owner, the group owner and the other users to the file hello.
 
+8-James_Bond --> adds all permission to other users but no permission to the owner and group owner.
+
 
