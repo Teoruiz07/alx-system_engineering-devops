@@ -12,4 +12,6 @@
 
 6-multiple_permissions --> adds execute permission to the owner and the group owner, and read permission to the other users.
 
+7-everybody --> adds execute permission to the owner, the group owner and the other users to the file hello.
+
 
