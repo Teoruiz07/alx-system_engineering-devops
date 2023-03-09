@@ -6,4 +6,6 @@
 
 3-new_owner --> changes owner of hello file to the user betty.
 
+4-empty --> creates an empty file called hello.
+
 
