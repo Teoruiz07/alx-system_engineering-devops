@@ -16,4 +16,6 @@
 
 8-James_Bond --> adds all permission to other users but no permission to the owner and group owner.
 
+9-John_Doe --> sets the mode of the file hellow to -rwxr-x-wx.
+
 
