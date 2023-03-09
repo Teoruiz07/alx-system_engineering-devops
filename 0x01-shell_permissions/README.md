@@ -16,6 +16,8 @@
 
 8-James_Bond --> adds all permission to other users but no permission to the owner and group owner.
 
-9-John_Doe --> sets the mode of the file hellow to -rwxr-x-wx.
+9-John_Doe --> sets the mode of the file hello to -rwxr-x-wx.
+
+10-mirror_permissions --> sets the mode of the file hello to -rw-rw-r--.
 
 
