@@ -21,3 +21,7 @@
 10-mirror_permissions --> sets the mode of the file hello to -rw-rw-r--.
 
 11-directories_permissions --> adds execute permission to all subdirectories of the current directory for the owner, group owner and all other users.
+
+12-directory_permissions --> creates a directory called my_dir with permission 751 in th working directory.
+
+
