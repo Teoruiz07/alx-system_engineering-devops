@@ -22,4 +22,6 @@
 
 11-lists --> Lists all files in three.
 
+12-file_type --> Prints the file type of iamafile in /tmp/.
+
 
