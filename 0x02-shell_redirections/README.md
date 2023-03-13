@@ -20,4 +20,10 @@
 
 10-no_more_js --> Deletes all regular files with a .js extension in the current dir and sud-dir.
 
+11-directories --> Write a script that counts the number of directories and sub-directories in the current directory.
+
+The current and parent directories should not be taken into account
+Hidden directories should be counted
+
+
 
