@@ -2,4 +2,6 @@
 
 1-confused_smiley --> Prints "(Ôo)".
 
+2-hellofile--> Display the content of the /etc/passwd file.
+
 
