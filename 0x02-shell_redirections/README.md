@@ -18,4 +18,6 @@
 
 9-duplicate_last_line--> Duplicates the last line of the file iacta.
 
+10-no_more_js --> Deletes all regular files with a .js extension in the current dir and sud-dir.
+
 
