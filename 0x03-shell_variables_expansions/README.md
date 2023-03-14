@@ -13,4 +13,9 @@ Value: rm *
 
 5-local_variables --> Create a script that lists all local variables and environment variables, and functions.
 
+7-create_global_variable --> Create a script that creates a new global variable.
+
+Name: BEST
+Value: School
+
 
